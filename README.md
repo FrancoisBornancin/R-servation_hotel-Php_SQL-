@@ -19,3 +19,4 @@ Cette application permet :
 
 # Connection à l'application:
 - Pour les admins: via [http://booking/admin/admin_login.php](http://booking/admin/admin_login.php)
+- Pour les users: via [http://booking/site/client_accueil.php](http://booking/site/client_accueil.php)
